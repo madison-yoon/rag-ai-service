@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+langchain-text-splitters
+langgraph
+langchain-openai
+langchain-mongodb
+pymongo
